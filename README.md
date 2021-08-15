@@ -8,6 +8,10 @@ Roadmap:
 
 In the future I would like to improve this program even more and perhaps have several different eyes dispersed around the page. I would also like to consider many different commercial applications of such a program.
 
+How to download code:  
+
+Please watch the following video for instructions on how to clone this repository to your computer:  https://www.youtube.com/watch?v=O72FWNeO-xY
+
 License: 
 
 MIT License
